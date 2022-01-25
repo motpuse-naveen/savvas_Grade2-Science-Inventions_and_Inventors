@@ -773,9 +773,10 @@ a.graylink{
     font-family: 'poppins-semibold';
     color: #486FB1;
     font-size: 66px;
-    line-height: 1.5;
-    margin-top: 6rem;
+    line-height: 1;
+    /* margin-top: 6rem; */
     text-align: center;
+    letter-spacing: -2.6px;
 }
 .popup-content-title{
     font-family: 'poppins-semibold';
