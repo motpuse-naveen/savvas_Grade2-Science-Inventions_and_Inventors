@@ -270,7 +270,7 @@ body, html {
 }
 
 .content-panel .title-wrap .title {
-    font-size: 46px;
+    font-size: 43px;
     font-family: 'poppins-semibold';
     color: #FFFFFF;
     /*margin-bottom: 0;
@@ -310,7 +310,7 @@ body, html {
 .card-body-thumb {
     text-align: center;
     padding: 10px 0px;
-    height: 70px;
+    height: 90px;
     line-height: 1.5em;
     overflow: hidden;
 }
@@ -1189,7 +1189,7 @@ ul.numberlist li:before {
   
     to {
       /* left: auto; */
-      height: 70px;
+      height: 90px;
     }
   }
 
