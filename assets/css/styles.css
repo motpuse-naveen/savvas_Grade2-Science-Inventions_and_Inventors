@@ -351,7 +351,9 @@ body, html {
 .card-cover-img.MinHeight{
     min-height: 206px;
 }
-
+.textblkCol{
+    color: #000000 !important;
+}
 .card-cover-img.img1 {
     background: url(../images/SN23_TS02_SC0144_R2620549_D_TXT1.png);
     background-size: cover;
